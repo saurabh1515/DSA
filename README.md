@@ -1,3 +1,3 @@
-# Competitive-Programming
+# Algorithms-and-Data-structures
 
-It contains all the algorithms needed in competitive programming.
+Algorithms and data structures for competitive programming and job interviews.
